@@ -1,3 +1,12 @@
+<style>
+#header-container {
+  background-color: red;
+}
+</style>
+
+<div id="header-container">
+  
+</div>
 <h1 style="align:center;">My Profile</h1>
 <img src="https://media.tenor.com/a7F6sMASCz4AAAAC/tucker-henlo.gif" alt="HeaderImg" style="width: 60vw; height:40vh">
 <!--
