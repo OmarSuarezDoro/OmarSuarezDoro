@@ -19,3 +19,10 @@
 > <p> <a href="https://www.linkedin.com/in/omar-su%C3%A1rez-doro-751aa3285/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandarioscarrizo/" height="30" width="40" /></a>
 > <a href="https://www.instagram.com/osuarezdoro_/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="peirios" height="30" width="40" /> </a>
 > <a href="https://leetcode.com/noexdevpen/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="papaspei" height="30" width="40"/> </a></p>
+
+#
+
+### My Actual Stats..🔥
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarSuarezDoro&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OmarSuarezDoro&theme=dark&hide_border=true)](https://git.io/streak-stats)
