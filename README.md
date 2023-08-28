@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![MasterHead](https://tenor.com/view/tucker-henlo-fren-golden-retriever-dog-gif-14918136)]
 <!--
 **OmarSuarezDoro/OmarSuarezDoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
