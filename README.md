@@ -1,4 +1,4 @@
-<h1 style="alingth:center">My Profile</h1>
+<h1 style="align:center">My Profile</h1>
 <img src="https://media.tenor.com/a7F6sMASCz4AAAAC/tucker-henlo.gif" alt="HeaderImg" style="width: 60vw; height:40vh">
 <!--
 **OmarSuarezDoro/OmarSuarezDoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
