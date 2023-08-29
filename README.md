@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤙, I'm Omar Suarez Doro</h1>
+<h1 align="center">Hi 🤙, I'm Omar Suárez Doro</h1>
 <img src="https://media.tenor.com/a7F6sMASCz4AAAAC/tucker-henlo.gif" alt="HeaderImg" style="width: 60vw; height:40vh">
 
 #
