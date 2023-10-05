@@ -7,7 +7,7 @@
 <img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="HeaderImg" style="width: 10vw; height:10vw; border-radius:50%; border-width:2px"">
 
 > ### To know..💡
->  - 🏛️ I'm Studying at University of La Laguna.</li> 
+>  - 🏛️ I'm Studying in University of La Laguna.</li> 
 >  - 🧐 Ask me about **JS & C++**.</li>
 >  - 📫 You can get in touch with me using the information in contact section.</li>
 >  - ⚙️ Interested in *CyberSecurity*, *Networking* and *Web* & *Software Development* fields.</li>
