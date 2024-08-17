@@ -17,7 +17,7 @@
 >
 > ### Certified..😎
 >
-> <p><img src="https://templates.images.credential.net/16947192901898719699151540862834.png" alt="TS" width="40" height="40"/></p> 
+> <p><img src="https://templates.images.credential.net/16947192901898719699151540862834.png" alt="TS" width="40" height="40"/><img src="https://miro.medium.com/v2/resize:fit:411/1*PCBXs9F7qjom3aUtzeJxOA.png" alt="TS" width="40" height="40"/></p> 
 >
 > ### Contact..💬
 > <p> <a href="https://www.linkedin.com/in/omar-su%C3%A1rez-doro-751aa3285/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandarioscarrizo/" height="30" width="40" /></a>
