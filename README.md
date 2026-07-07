@@ -1,31 +1,83 @@
-<h1 align="center">Hi 🤙, I'm Omar Suárez Doro</h1>
-<img src="https://media.tenor.com/a7F6sMASCz4AAAAC/tucker-henlo.gif" alt="HeaderImg" style="width: 60vw; height:40vh">
+<h1 align="center">Omar Suárez Doro</h1>
 
-#
+<h3 align="center">
+  Computer Engineer | Cybersecurity & Privacy Master's Student | Software, Data & AI Enthusiast
+</h3>
 
-<h3 align="center">Student of Computer Science</h3>
-<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="HeaderImg" style="width: 10vw; height:10vw; border-radius:50%; border-width:2px"">
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-su%C3%A1rez-doro-751aa3285/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Suárez%20Doro-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/noexdevpen/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-noexdevpen-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  </a>
+  <a href="https://beacons.ai/noexdev" target="_blank">
+    <img src="https://img.shields.io/badge/Beacons-noexdev-black?style=for-the-badge&logo=linktree&logoColor=white" alt="Beacons" />
+  </a>
+</p>
 
-> ### To know..💡
->  - 🏛️ I'm Studying in University of La Laguna.</li> 
->  - 🧐 Ask me about **JS & C++**.</li>
->  - 📫 You can get in touch with me using the information in contact section.</li>
->  - ⚙️ Interested in *CyberSecurity*, *Networking* and *Web* & *Software Development* fields.</li>
->
-> ### Languages & Technologies..📡
-> <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/96px-Typescript.svg.png" alt="TS" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/2048px-Ruby_logo.svg.png" alt="ruby" width="40" height="40"/></p>
->
-> ### Certified..😎
->
-> <p><img src="https://templates.images.credential.net/16947192901898719699151540862834.png" alt="TS" width="40" height="40"/><img src="https://miro.medium.com/v2/resize:fit:411/1*PCBXs9F7qjom3aUtzeJxOA.png" alt="TS" width="40" height="40"/></p> 
->
-> ### Contact..💬
-> <p> <a href="https://www.linkedin.com/in/omar-su%C3%A1rez-doro-751aa3285/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandarioscarrizo/" height="30" width="40" /></a>
-> <a href="https://leetcode.com/noexdevpen/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="papaspei" height="30" width="40"/> </a></p>
+---
 
-#
+## About Me
 
-### My Actual Stats..🔥
+I am a **Computer Engineer** currently studying a **Master's Degree in Cybersecurity and Privacy** at the **Universitat Oberta de Catalunya**.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarSuarezDoro&show_icons=true&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OmarSuarezDoro&theme=dark&hide_border=true)](https://git.io/streak-stats)
+My main specialization is **cybersecurity**, but I enjoy exploring different areas of computer science and technology. I like building things, breaking things to understand how they work, learning new tools, and experimenting across multiple disciplines.
+
+I am especially interested in **cybersecurity**, **software development**, **data science**, **artificial intelligence**, **networking**, and systems. I consider myself curious, adaptable, and always open to learning something new.
+
+---
+
+## Areas of Interest
+
+- 🔐 Cybersecurity and privacy
+- 🧠 Artificial intelligence
+- 📊 Data science and analytics
+- 🐍 Python development
+- 💻 Software development
+- 🌐 Web development
+- 🛜 Networking and systems
+- 🧩 Problem solving and algorithms
+
+---
+
+## Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/AI-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Networking-0066CC?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/eCCPT-Cybersecurity-red?style=for-the-badge" alt="eCCPT" />
+  <img src="https://img.shields.io/badge/eJPT-Cybersecurity-red?style=for-the-badge" alt="eJPT" />
+  <img src="https://img.shields.io/badge/ICCA-Cloud-blue?style=for-the-badge" alt="ICCA" />
+  <img src="https://img.shields.io/badge/CRTP-Cybersecurity-darkred?style=for-the-badge" alt="CRTP" />
+  <img src="https://img.shields.io/badge/CAP-Cybersecurity-black?style=for-the-badge" alt="CAP" />
+</p>
+
+---
+
+<p align="center">
+  <i>Cybersecurity-focused, but always curious enough to explore every corner of technology.</i>
+</p>
